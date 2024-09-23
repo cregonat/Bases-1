@@ -1,4 +1,4 @@
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('GENERAL                       ',NULL,'2024-09-19',NULL),
 	 ('YOGURES                       ',1,'2024-09-19',NULL),
 	 ('QUESOS                        ',1,'2024-09-19',NULL),
@@ -9,7 +9,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('PRODUCTOS DE COPETIN          ',1,'2024-09-19',NULL),
 	 ('MAYONESAS                     ',1,'2024-09-19',NULL),
 	 ('CHACINADOS                    ',1,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('HAMBURGUESA                   ',1,'2024-09-19',NULL),
 	 ('GRASA                         ',1,'2024-09-19',NULL),
 	 ('SERVILLETA                    ',1,'2024-09-19',NULL),
@@ -20,7 +20,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('MASITAS                       ',1,'2024-09-19',NULL),
 	 ('BEBIDAS                       ',1,'2024-09-19',NULL),
 	 ('CONDIMENTOS                   ',1,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('YERBA MATE                    ',1,'2024-09-19',NULL),
 	 ('ACEITES                       ',1,'2024-09-19',NULL),
 	 ('GALLETITAS                    ',1,'2024-09-19',NULL),
@@ -31,7 +31,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Pastas Don Yeyo               ',26,'2024-09-19',NULL),
 	 ('Panificados Don Yeyo          ',26,'2024-09-19',NULL),
 	 ('Quesos La Paulina             ',27,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Cremas de Leche La Paulina    ',27,'2024-09-19',NULL),
 	 ('Leche en Polvo La Paulina     ',27,'2024-09-19',NULL),
 	 ('Dulce de Leche La Paulina     ',27,'2024-09-19',NULL),
@@ -42,7 +42,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Dulce de Leche Ilolay         ',35,'2024-09-19',NULL),
 	 ('Quesos Ilolay                 ',35,'2024-09-19',NULL),
 	 ('Swift                         ',1,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Hamburguesas Swift            ',40,'2024-09-19',NULL),
 	 ('Medallones Swift              ',40,'2024-09-19',NULL),
 	 ('Picadillos Swift              ',40,'2024-09-19',NULL),
@@ -53,7 +53,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Salame Paladini               ',45,'2024-09-19',NULL),
 	 ('Mortadelas Paladini           ',45,'2024-09-19',NULL),
 	 ('Pancetas Paladini             ',45,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Paletas Paladini              ',45,'2024-09-19',NULL),
 	 ('Jamon Cocido Palanidi         ',45,'2024-09-19',NULL),
 	 ('Jamon Crudo Paladini          ',45,'2024-09-19',NULL),
@@ -64,7 +64,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Morcillas Nelson              ',57,'2024-09-19',NULL),
 	 ('Salamines Nelson              ',57,'2024-09-19',NULL),
 	 ('Jamon Crudo Nelson            ',57,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Mortadela Nelson              ',57,'2024-09-19',NULL),
 	 ('Salchichon Nelson             ',57,'2024-09-19',NULL),
 	 ('Baggio                        ',1,'2024-09-19',NULL),
@@ -75,7 +75,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Ital                          ',1,'2024-09-19',NULL),
 	 ('Especias Ital                 ',68,'2024-09-19',NULL),
 	 ('Yerba Ital                    ',68,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Fecula de Maiz Ital           ',68,'2024-09-19',NULL),
 	 ('Azucar Impalpable             ',68,'2024-09-19',NULL),
 	 ('Granas Ital                   ',68,'2024-09-19',NULL),
@@ -86,7 +86,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Margarina Danica              ',77,'2024-09-19',NULL),
 	 ('Mayonesas Danica              ',77,'2024-09-19',NULL),
 	 ('Salsa golf Danica             ',77,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Mostaza Danica                ',77,'2024-09-19',NULL),
 	 ('Ketchup Danica                ',77,'2024-09-19',NULL),
 	 ('Levaduras Frescas Danica      ',77,'2024-09-19',NULL),
@@ -97,7 +97,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Mortadela Don Alejandro       ',87,'2024-09-19',NULL),
 	 ('Paleta Don Alejandro          ',87,'2024-09-19',NULL),
 	 ('Molino Canuelas               ',1,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Aceites Molino Canuelas       ',90,'2024-09-19',NULL),
 	 ('Harinas Molino Canuelas       ',90,'2024-09-19',NULL),
 	 ('Galletitas Molino Canuelas    ',90,'2024-09-19',NULL),
@@ -108,7 +108,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Hamburguesas La furlana       ',97,'2024-09-19',NULL),
 	 ('Salamines La Furlana          ',97,'2024-09-19',NULL),
 	 ('Salames La furlana            ',97,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Mar Pag                       ',1,'2024-09-19',NULL),
 	 ('Chizitos Mar Pag              ',101,'2024-09-19',NULL),
 	 ('Papas Fritas Mar Pag          ',101,'2024-09-19',NULL),
@@ -119,7 +119,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Dulce de Membrillo Dulcor     ',107,'2024-09-19',NULL),
 	 ('Dulce de Batata Dulcor        ',107,'2024-09-19',NULL),
 	 ('Mermeladas Dulcor             ',107,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Hamburguesas Paladini         ',45,'2024-09-19',NULL),
 	 ('Medallones Paladini           ',45,'2024-09-19',NULL),
 	 ('Vanoli                        ',1,'2024-09-19',NULL),
@@ -130,7 +130,7 @@ INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Bolsas Willy                  ',117,'2024-09-19',NULL),
 	 ('Bandejas Willy                ',117,'2024-09-19',NULL),
 	 ('Bobinas Willy                 ',117,'2024-09-19',NULL);
-INSERT INTO Super.Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
+INSERT INTO Categorias (NCategoria,IdCatPadre,FechaAlta,FechaBaja) VALUES
 	 ('Escarbadientes Willy          ',117,'2024-09-19',NULL),
 	 ('Servilletas Willy             ',117,'2024-09-19',NULL),
 	 ('Sorbetes Willy                ',117,'2024-09-19',NULL),

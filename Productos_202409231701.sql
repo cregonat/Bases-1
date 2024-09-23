@@ -1,4 +1,4 @@
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('VARIOS IVA 10,5%','          ',64,10.50,0.0000),
 	 ('BAGGIO DUR-NAR * 200 * 18u','          ',64,21.00,0.0000),
 	 ('POLVO MOCORETA MANDARINA','          ',64,21.00,0.0000),
@@ -9,7 +9,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('PAPAS FRITAS PUMPER*15U','          ',66,21.00,0.0000),
 	 ('Big Cheese DE MAIZ*15U','          ',66,21.00,0.0000),
 	 ('MORTADELA 808 * 4KG','          ',2,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MORTADELA C/PIST.SEL.ENTERA','          ',2,21.00,0.0000),
 	 ('FIAMBRE DE CERDO COCIDO PIAMON','          ',2,21.00,0.0000),
 	 ('FIAMBRE COCIDO DE CERDO 131','          ',2,21.00,0.0000),
@@ -20,7 +20,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('CORNED BEEF SWIFT *340G','          ',44,21.00,0.0000),
 	 ('MANI *150G   MARPAG*10U','          ',105,21.00,0.0000),
 	 ('MANI *1KG MARPAG','          ',105,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('PALITOS *150G MAR-PAG*10U','          ',104,21.00,0.0000),
 	 ('PALITOS SALADOS*1500G JULICROC','          ',144,21.00,0.0000),
 	 ('MAYONESA CADA DIA * 125cc LIVIANA','          ',86,21.00,0.0000),
@@ -31,7 +31,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MAYONESA NATURA * 250cc','          ',86,21.00,0.0000),
 	 ('MAYONESA NATURA * 350cc FRASCO','          ',86,21.00,0.0000),
 	 ('MAYONESA NATURA * 500cc','          ',86,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MAYONESA NATURA * 1000cc','          ',86,21.00,0.0000),
 	 ('MANTECA ILOLAY *200G*10U','          ',128,21.00,0.0000),
 	 ('MANTECA ILOLAY *100G*20U','          ',128,21.00,0.0000),
@@ -42,7 +42,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('YOGUR *200 DESC. VAINILLA ILOLAY','          ',36,21.00,0.0000),
 	 ('YOGUR C.CEREAL*160G ENT ILOLAY','          ',36,21.00,0.0000),
 	 ('YOGUR C.CER.DESC.*160G ILOLAY','          ',36,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('YOGUR BOT.*200 ENT. FRUTILLA ILOLAY','          ',36,21.00,0.0000),
 	 ('YOGUR ENTERO 1L FRUT. ILOLAY','          ',36,21.00,0.0000),
 	 ('YOGUR DESC.*1L FRUT.ILOLAY','          ',36,21.00,0.0000),
@@ -53,7 +53,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('CHOCOLATADA * 1L ILOLAY*12U','          ',37,21.00,0.0000),
 	 ('CHOCOLATADA *250 CC ILOLAY  *27U','          ',37,21.00,0.0000),
 	 ('LECHE LARGA VIDA*1L ENT.ILOLAY*12U','          ',37,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('LECHE EN POLVO*800G ENT.ILOLAY*12U','          ',37,21.00,0.0000),
 	 ('LECHE EN POLVO*400G ENT.ILOLAY *25U','          ',37,21.00,0.0000),
 	 ('DULCE DE LECHE *200G ILOLAY*24u','          ',38,21.00,0.0000),
@@ -64,7 +64,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('YOGUR *125 ENTERO VAINILLA ILOLAY','          ',36,21.00,0.0000),
 	 ('YOGUR *125G DESC.FRUT.ILOL','          ',36,21.00,0.0000),
 	 ('QUESO UNT.*200G CLASIC.ILOLAY','          ',2,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO UNT.*200G MAGROS ILOLAY','          ',2,21.00,0.0000),
 	 ('QUESO RALLADO ILOLAY*40G*20U','          ',39,21.00,0.0000),
 	 ('BONDIOLA PALADINI','          ',129,21.00,0.0000),
@@ -75,7 +75,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SALCH.TRIPLE *2.5KG PALADINI','          ',56,21.00,0.0000),
 	 ('MORTADELA FLIAR*500KG PALADINI*12U','          ',49,21.00,0.0000),
 	 ('MORTADELA *2.5KG PALADINI','          ',49,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MORTADELA *4.5KG PALADINI','          ',49,21.00,0.0000),
 	 ('SALCHICHAS *6U PALADINI*24U','          ',46,21.00,0.0000),
 	 ('SALCHICHAS *12U PALADINI*12U','          ',46,21.00,0.0000),
@@ -86,7 +86,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SALAMIN LA FURLANA','          ',99,21.00,0.0000),
 	 ('SALAMIN POR METRO LA FURLANA','          ',99,21.00,0.0000),
 	 ('SALAMIN POR METRO LA FURLANA','          ',2,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('LOMO DE CERDO LA FURLANA','          ',2,21.00,0.0000),
 	 ('HAMBURG. CAJ.*24U LA FURLANA','          ',98,21.00,0.0000),
 	 ('HAMBUR.CAJ.*48U LA FURLANA','          ',98,21.00,0.0000),
@@ -97,7 +97,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SERVILLETA*10000','          ',122,21.00,0.0000),
 	 ('BANDEJAS CELULOSAS N�1','          ',119,21.00,0.0000),
 	 ('BANDEJAS CELULOSAS N�2','          ',119,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('BANDEJAS CELULOSAS N�3','          ',119,21.00,0.0000),
 	 ('BANDEJAS CELULOSAS N�4','          ',119,21.00,0.0000),
 	 ('BANDEJAS CELULOSAS N�5','          ',119,21.00,0.0000),
@@ -108,7 +108,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SALAME MILAN FELA','          ',48,21.00,0.0000),
 	 ('CHIZITOS JULICROC*80*12u','          ',142,21.00,0.0000),
 	 ('CHIZITOS JULICROCx400x8u','          ',142,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO TYBO ILOLAY','          ',2,21.00,0.0000),
 	 ('CREMA *5KG ILOLAY','          ',127,21.00,0.0000),
 	 ('SORBETES *1000 ENSOBRADOS','          ',123,21.00,0.0000),
@@ -119,7 +119,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('JAMON CRUDO MEDIO PALADINI','          ',53,21.00,0.0000),
 	 ('SALAME BASTON LA FURLANA','          ',100,21.00,0.0000),
 	 ('FIAMBRE EMPAREDADO*6 FELA','          ',51,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MOZARELLA  ILOLAY','          ',39,21.00,0.0000),
 	 ('QUESO RALLADO *150GRS ILOLAY*30U','          ',39,21.00,0.0000),
 	 ('MEDALLON FELA *72U','          ',112,21.00,0.0000),
@@ -130,7 +130,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('VASOS *300CC *100U','          ',138,21.00,0.0000),
 	 ('POLVO MOCORETA ANANA','          ',64,21.00,0.0000),
 	 ('POLVO MOCORETA POMELO','          ',64,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('SALCHICHAS *18 PALADINI*8U','          ',46,21.00,0.0000),
 	 ('LEBERWURST PALADINI *250 *18','          ',55,21.00,0.0000),
 	 ('SALCHICHON *400 PALADINI','          ',56,21.00,0.0000),
@@ -141,7 +141,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BANDEJA PIZZA CUADRADA','          ',119,21.00,0.0000),
 	 ('JAMON CRUDO NELSON','          ',60,21.00,0.0000),
 	 ('MORCILLAS NELSON *7KG','          ',58,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MORCILLAS NELSON *2KG','          ',58,21.00,0.0000),
 	 ('SALAMIN NELSON GRANDE','          ',59,21.00,0.0000),
 	 ('SALAMIN NELSON CHICO','          ',59,21.00,0.0000),
@@ -152,7 +152,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('GRASA VACUNA SACHET PALADINI','          ',149,21.00,0.0000),
 	 ('GRASA D/CERDO*500 PALADINI','          ',2,21.00,0.0000),
 	 ('BOBINA DE PAPEL *60CM','          ',120,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('FIDEOS FINOS DON YEYO','          ',28,21.00,0.0000),
 	 ('FIDEOS ANCHOS DON YEYO','          ',28,21.00,0.0000),
 	 ('NIOQUIS DON YEYO','          ',28,21.00,0.0000),
@@ -163,7 +163,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('RAVIOLES 4 QUESOS DON YEYO','          ',28,21.00,0.0000),
 	 ('RAV.ESP/CARNE *1k DON YEYO','          ',28,21.00,0.0000),
 	 ('CAPELLETIS C/CAR-JAM*500G DON YEYO','          ',28,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('TORTELLETIS CAR-JAMOM DON YEYO','          ',28,21.00,0.0000),
 	 ('PAN LACTAL DON YEYO * 390GRS','          ',29,21.00,0.0000),
 	 ('PAN SALVADO DON YEYO *350GRS','          ',29,21.00,0.0000),
@@ -174,7 +174,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('DISCOS EMP/HORNO BLISTER DON Y','          ',28,21.00,0.0000),
 	 ('DULCE DE BATATA C/CHOCOLATE  *5KDULCOR','          ',109,21.00,0.0000),
 	 ('BATATA CON CHOCOLATE *5K DULCOR','          ',109,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MEMBRILLO *5KG DULCOR','          ',108,21.00,0.0000),
 	 ('MEMBRILLO *500G DULCOR*12u','          ',108,21.00,0.0000),
 	 ('MERMELADA DURAZNO*500 DULCOR*12U','          ',110,21.00,0.0000),
@@ -185,7 +185,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BATATA *500G DULCOR *12u','          ',109,21.00,0.0000),
 	 ('FIAMBRE P/EMPAREDADOS 73','          ',2,21.00,0.0000),
 	 ('PANCETA AHUMADA PALADINI','          ',50,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MANTECA MINI/PORC. ILOLAY','          ',128,21.00,0.0000),
 	 ('QUESO DANBO LA PAULINA HORMA','          ',30,21.00,0.0000),
 	 ('MANTECA SOFT LIGHT*200 POTE*24U','          ',78,21.00,0.0000),
@@ -196,7 +196,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BICARBONATO DE SODIO ITAL *25g*25u','          ',133,21.00,0.0000),
 	 ('COMINO ITAL*25g*25u','          ',69,21.00,0.0000),
 	 ('ESPECIAS SURTIDAS ITAL*25g*25u','          ',69,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('NUEZ MOSCADA MOLIDA ITAL*25g*12u','          ',69,21.00,0.0000),
 	 ('OREGANO ITAL *25G*25u','          ',69,21.00,0.0000),
 	 ('OREGANO *1K ITAL','          ',69,21.00,0.0000),
@@ -207,7 +207,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('CHIMICHURRI  ITAL *25G*25u','          ',69,21.00,0.0000),
 	 ('AZUCAR IMPALPABLE ITAL *200 *25u','          ',72,21.00,0.0000),
 	 ('COCO RALLADO ITAL*25G*25u','          ',69,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('EXTRACTO DE VAINILLA ITAL*15u','          ',69,21.00,0.0000),
 	 ('FECULA DE MAIZ ITAL*200*20U','          ',71,21.00,0.0000),
 	 ('GRAGEAS ITAL*15U','          ',73,21.00,0.0000),
@@ -218,7 +218,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MANI CON SABOR *150G*10U MAR PAG','          ',105,21.00,0.0000),
 	 ('PROVENZAL X1KG ITAL','          ',69,21.00,0.0000),
 	 ('KETCHUP DANICA *8GRS','          ',82,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('BOLITAS DE COLOR *5KG JULICROC','          ',140,21.00,0.0000),
 	 ('PAN DULCE MILANES*700 DON YEYO','          ',29,21.00,0.0000),
 	 ('PAN DULCE MILANES*500 DON YEYO','          ',29,21.00,0.0000),
@@ -229,7 +229,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SALSA GOLF DANICA*2900G*4U','          ',80,21.00,0.0000),
 	 ('SALSA GOLF DANICA *8G','          ',80,21.00,0.0000),
 	 ('MOSTAZA DANICA *2900G*4U','          ',81,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MOSTAZA DANICA *8GRS','          ',81,21.00,0.0000),
 	 ('KETCHUP DANICA *2900G*4U','          ',82,21.00,0.0000),
 	 ('LEVADURA GOLONDRINA *500*20U','          ',83,21.00,0.0000),
@@ -240,7 +240,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MAYONESA DANICA *250 CC*24U','          ',79,21.00,0.0000),
 	 ('PALITOS SALADOS *1KGMAR PAG','          ',104,21.00,0.0000),
 	 ('QUESO DE CERDO PALADINI*2.500','          ',2,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('FOLEX 20*25','          ',137,21.00,0.0000),
 	 ('MAYONESA DANICA *500','          ',79,21.00,0.0000),
 	 ('BANDEJAS PARA PIZZA REDONDA*50u','          ',119,21.00,0.0000),
@@ -251,7 +251,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('JAMON COCIDO SELECTO ENTERO','          ',2,21.00,0.0000),
 	 ('LOMO  HORNEADO C/HIERB L''ABRATTO','          ',150,21.00,0.0000),
 	 ('PATE DE FOIE PALADINI*24U','          ',54,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('PAPAS FRITAS MAR PAG *1KG','          ',103,21.00,0.0000),
 	 ('MATAMBRE ARROLLADO FELA','          ',168,21.00,0.0000),
 	 ('POLLO ARROLLADO FELA','          ',168,21.00,0.0000),
@@ -262,7 +262,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('QUESO SARDO 1/2 H.PAULINA','          ',30,21.00,0.0000),
 	 ('CREMA DE LECHE *10 KG ILOLAY','          ',127,21.00,0.0000),
 	 ('HAMBURGUESA CLASICA SWIFT 12*4*69G','          ',41,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MEDALLONES PARRILLEROS SWIFT *60','          ',42,21.00,0.0000),
 	 ('MEDALLON DOBLE BURGER SWIFT *72','          ',42,21.00,0.0000),
 	 ('GRASA VACUNA VICENTIN','          ',2,21.00,0.0000),
@@ -273,7 +273,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('LICOR CAFE AL CO�AC *1L*12U','          ',160,21.00,0.0000),
 	 ('LICOR CA�A  DURAZNO*1L*12U','          ',160,21.00,0.0000),
 	 ('LICOR  PETACA CAFE CO�AC*195*12U','          ',160,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('LICOR  PETACA GRAPA C/MIEL *195*12U','          ',160,21.00,0.0000),
 	 ('LECHE CHOCOLATADA *125 BAGGIO *18u','          ',125,21.00,0.0000),
 	 ('ACEITE GIR-OLIVA*900CC*12','          ',91,21.00,0.0000),
@@ -284,7 +284,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('PIMIENTA BCA MDA FINA *1KG','          ',69,21.00,0.0000),
 	 ('PANCETA SALADA FLIAR PALADIN','          ',50,21.00,0.0000),
 	 ('PAPEL FILM','          ',146,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO SARDO LA PAULINA HORMA','          ',30,21.00,0.0000),
 	 ('YERBA ESP.MATE ROJO 1/2*20U','          ',116,21.00,0.0000),
 	 ('YERBA ESP.MATE ROJO *1KG*10U','          ',116,21.00,0.0000),
@@ -295,7 +295,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('AZUCAR SACHET (SOBRE)','          ',72,21.00,0.0000),
 	 ('QUESO RALLADO *1KG ILOLAY','          ',2,21.00,0.0000),
 	 ('PAN RALLADO *500 CANUELAS*12U','          ',94,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MANI CON CASCARA *1KG MAR PAG','          ',105,21.00,0.0000),
 	 ('ESCARBADIETES ENSOBRADOS *1U','          ',121,21.00,0.0000),
 	 ('DISCOS P/EMPANADAS DEVIANOS','          ',28,21.00,0.0000),
@@ -306,7 +306,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('QUESO BARRA CAFFITO','          ',170,21.00,0.0000),
 	 ('QUESO PATEGRAS CAFFITO','          ',170,21.00,0.0000),
 	 ('QUESO SARDO CAFFITO','          ',170,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MOZARELLA CAFFITO','          ',170,21.00,0.0000),
 	 ('ACEITE GRSOL *4,500lt','          ',91,21.00,0.0000),
 	 ('MOSTAZA DANICA *250*12U','          ',81,21.00,0.0000),
@@ -317,7 +317,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BUDIN MARMOLADO *250 DON YEYO','          ',29,21.00,0.0000),
 	 ('BUDIN VAINILLA *250 DON YEYO','          ',29,21.00,0.0000),
 	 ('SAL *1000 SOBRES','          ',148,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('SALSA GOLF DANICA *250*12U','          ',80,21.00,0.0000),
 	 ('MOSTAZA DANICA *60G*24U','          ',81,21.00,0.0000),
 	 ('KETCHUP DANICA *50G*24U','          ',82,21.00,0.0000),
@@ -328,7 +328,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('PIMIENTA BCA EN GRANO *1KG','          ',69,21.00,0.0000),
 	 ('CUCHARAS DE PLASTICO','          ',147,21.00,0.0000),
 	 ('MORTADELA NELSON','          ',61,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('JAMON CRUDO MEDIO PARMA PALADI','          ',53,21.00,0.0000),
 	 ('ACEITUNA RODAJAS VANOLI 4/7KG','          ',114,21.00,0.0000),
 	 ('BAGGIO LIGHT MANZ/NJA *500','          ',64,21.00,0.0000),
@@ -339,7 +339,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MERMELADA NINI PORCION ORIETA','          ',110,21.00,0.0000),
 	 ('LICOR PETACA C�A DURAZNO*195CC*12U','          ',160,21.00,0.0000),
 	 ('PRE-MEZ.BU�UELO MANZ/BAN/VAIN*12U','          ',96,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('PURE DE TOMATE LA HUERTA *530*12U','          ',65,21.00,0.0000),
 	 ('YERBA HIERBITAL *500G  CAJA *24U','          ',70,21.00,0.0000),
 	 ('DISCOS EMP/FREIR BLISTER DON Y','          ',28,21.00,0.0000),
@@ -350,7 +350,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SALAME MILAN DON ALEJANDRO','          ',2,21.00,0.0000),
 	 ('CACAO DULCE *5KG ITAL','          ',134,21.00,0.0000),
 	 ('FLAN VAINILLA ITAL *5KG','          ',74,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('POSTRE VAINILLA ITAL *5KG','          ',75,21.00,0.0000),
 	 ('SALNITRO','          ',76,21.00,0.0000),
 	 ('CACAO DULCE ITAL *180G*25u','          ',134,21.00,0.0000),
@@ -361,7 +361,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MORTADELA DON ALEJANDRO','          ',88,21.00,0.0000),
 	 ('PIMENTON *1KG ITAL','          ',69,21.00,0.0000),
 	 ('PEREJIL *1KG ITAL','          ',69,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('GRASA FRIAR *1KG*12U','          ',162,21.00,0.0000),
 	 ('DANICA COMUN * 500*12U','          ',78,21.00,0.0000),
 	 ('DANICA COMUN *200*30U','          ',78,21.00,0.0000),
@@ -372,7 +372,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('DISCOS P/EMP.FREIR*330 DON YEY','          ',28,21.00,0.0000),
 	 ('DISCOS P/HORNO*330 DON YEYO','          ',28,21.00,0.0000),
 	 ('DISCOS P/PASCUAL.400 DON Y','          ',28,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('CREMA DE LECHE *5KG LA PAULINA','          ',31,21.00,0.0000),
 	 ('ACEITUNAS RODAJAS VANOLI *4K','          ',114,21.00,0.0000),
 	 ('DULCE DE LECHE *5 RAMOLAC','          ',60,21.00,0.0000),
@@ -383,7 +383,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SALSA GOLF DANICA *125CC','          ',80,21.00,0.0000),
 	 ('BANDEJA P/MEDIA PIZZA','          ',119,21.00,0.0000),
 	 ('ACEITE GRSOL *1,5L CANUELAS *12u','          ',91,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('GALLETITAS AGRIDULCES *200 9 DE ORO*20U','          ',93,21.00,0.0000),
 	 ('GALLETITAS CLASICAS*200 9 DE ORO*20U','          ',93,21.00,0.0000),
 	 ('GALLETITAS LIGHT *200 9 DE ORO*20U','          ',93,21.00,0.0000),
@@ -394,7 +394,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('PASEO TOSTADAS *12U','          ',93,21.00,0.0000),
 	 ('HARINA C/LEVADURA *1K PUREZA*10U','          ',92,21.00,0.0000),
 	 ('HARINA INTEGRAL *1K PUREZA*10U','          ',92,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('PREMEZCLA BUNUELOS/CREP ESPIN*12U','          ',96,21.00,0.0000),
 	 ('PREMEZCLA P/NIOQUIS PAPA*12U','          ',96,21.00,0.0000),
 	 ('PREMEZCLA NIOQUIS ESPINACA*12U','          ',96,21.00,0.0000),
@@ -405,7 +405,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('ACEITE MAIZ*900CC*12U','          ',91,21.00,0.0000),
 	 ('PREM. PIZZA CASERA PUREZA*12U','          ',96,21.00,0.0000),
 	 ('PAN LACTAL *600 DON YEYO','          ',29,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('EDULCORANTE SI DIET 6*250','          ',67,21.00,0.0000),
 	 ('PAPAS FRITAS *330GR JULICROC *12u','          ',145,21.00,0.0000),
 	 ('ROLLO DE BOLSAS 30*40','          ',131,21.00,0.0000),
@@ -416,7 +416,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('GALLETITAS AZUCARADAS *210 9DE ORO*20U','          ',93,21.00,0.0000),
 	 ('GALLETITAS SCONCITOS *200 9DE ORO*20U','          ',93,21.00,0.0000),
 	 ('PASEO MINI-MARINERAS*12U','          ',93,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('PASEO GRISINES SALVADO*15U','          ',93,21.00,0.0000),
 	 ('ROLLO DE BOLSAS CAMISETA 45*60','          ',131,21.00,0.0000),
 	 ('DULCE D LECHE MINI PORC ILOLAY','          ',38,21.00,0.0000),
@@ -427,7 +427,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('ARITOS CROCANTES JULICROC','          ',139,21.00,0.0000),
 	 ('BOLSAS DE CONSORCIO 80*100','          ',118,21.00,0.0000),
 	 ('VASOS TERMICOS 240CC*25U','          ',138,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('SALAME CON QUESO LA FURLANA','          ',100,21.00,0.0000),
 	 ('QUESO RALLADO *3KG ILOLAY','          ',2,21.00,0.0000),
 	 ('GALL.AGRIDULCE 9 DE ORO*100','          ',93,21.00,0.0000),
@@ -438,7 +438,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('AZUCAR IMPAL.ROSA/CELES.*200 *12u','          ',72,21.00,0.0000),
 	 ('TOMATE TRITURADO ALMAR','          ',2,21.00,0.0000),
 	 ('MORCILLA PARRILLERA NELSON','          ',58,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('TUTUCAS BOLSON *6KG','          ',163,21.00,0.0000),
 	 ('BOLSA CAMISETA 40*50','          ',118,21.00,0.0000),
 	 ('BOLSA POLIETILENO 8*15','          ',118,21.00,0.0000),
@@ -449,7 +449,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('RAV.ESP/RIC/QUESO*1KG DON YEYO','          ',28,21.00,0.0000),
 	 ('CERELES AZUCARADOS','          ',141,21.00,0.0000),
 	 ('FIDEOS FUSILES *500 DON YEYO','          ',28,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('CONDIMENTO P/PIZZA *1KG','          ',69,21.00,0.0000),
 	 ('PIMENTON SELECC.*1KG','          ',69,21.00,0.0000),
 	 ('SALAME BASTON DON ALEJANDRO','          ',2,21.00,0.0000),
@@ -460,7 +460,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SALCHICHON PRIMAVERA D.ALEJAN','          ',2,21.00,0.0000),
 	 ('PERNIL DE CERDO DON ALEJANDRO','          ',2,21.00,0.0000),
 	 ('SALAMIN COMUN PG DON ALEJANDRO','          ',2,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('YERBA MATE ROJO COMPUESTA*500*10U','          ',116,21.00,0.0000),
 	 ('BOLSA CAMISETA 20*30','          ',118,21.00,0.0000),
 	 ('BOBINA DE PAPEL *20','          ',120,21.00,0.0000),
@@ -471,7 +471,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('ANCHOA FILET PROVENZAL 40U*100','          ',156,21.00,0.0000),
 	 ('ANCHOA FILET 20U *100GRS','          ',156,21.00,0.0000),
 	 ('ANCHOAS 48U *20GRS','          ',156,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('BANDEJA PARA PIZZA REFORZADA','          ',119,21.00,0.0000),
 	 ('VAINILLA VALENTE*8PAQ*480G*36U','          ',2,21.00,0.0000),
 	 ('VAINILLA VALENTE 24PAQ*160','          ',2,21.00,0.0000),
@@ -482,7 +482,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BIZCOCH.VALENTE VAIN.3PAQ*550','          ',2,21.00,0.0000),
 	 ('BIZCOCH.RECT.VAINI*750','          ',2,21.00,0.0000),
 	 ('BIZCOCH.RECT CHOCO *750G','          ',2,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('JAMON CRUDO SWIFT','          ',152,21.00,0.0000),
 	 ('GRASA FRIAR *500G*24U','          ',162,21.00,0.0000),
 	 ('MORTADELA PALADINI *8KG','          ',2,21.00,0.0000),
@@ -493,7 +493,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BANDEJAS PLASTICAS N105','          ',119,21.00,0.0000),
 	 ('QUESO CREMOSO LA PAULINA HORMA','          ',30,21.00,0.0000),
 	 ('CREMA *200 LA PAULINA','          ',2,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MANTECA *200 LA PAULINA*30u','          ',34,21.00,0.0000),
 	 ('QUESO UNT. MAGRO LA PAULINA','          ',30,21.00,0.0000),
 	 ('QUESO TYBO LIGHT LA PAULINA','          ',30,21.00,0.0000),
@@ -504,7 +504,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('QUESO ROQUEFORT PAULINA 1/2HOR','          ',30,21.00,0.0000),
 	 ('QUESO PARMESANO PAULINA *390G','          ',30,21.00,0.0000),
 	 ('QUESO UNT.P/SALUD PAULINA*12U','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO UNT.P/SALUD LIGHT PAULINA*12U','          ',30,21.00,0.0000),
 	 ('QUESO UNT.C/FONTINA PAULINA*12U','          ',30,21.00,0.0000),
 	 ('QUESO UNT.AZUL PAULINA*12U','          ',30,21.00,0.0000),
@@ -515,7 +515,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('CREMA DE LECHE *200 LA PAULINA*24u','          ',31,21.00,0.0000),
 	 ('CREMA DE LECHE*350G LA PAULINA *16u','          ',31,21.00,0.0000),
 	 ('QUESO CREMA ENT.PAULINA*12U','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO CREMA LIGHT PAULINA*12U','          ',30,21.00,0.0000),
 	 ('MANTECA *100G LA PAULINA*60U','          ',34,21.00,0.0000),
 	 ('MANTECA *5 KG LA PAULINA','          ',34,21.00,0.0000),
@@ -526,7 +526,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('DULCE D/LECHE *400G LA PAULINA *12u','          ',33,21.00,0.0000),
 	 ('DULCE D/L REPOS*500 LA PAULINA*12u','          ',33,21.00,0.0000),
 	 ('QUESO RALLADO *40G LA PAULINA*20U','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO RALLADO *150G LA PAULINA*30U','          ',30,21.00,0.0000),
 	 ('QUESO RALLADO RICREM *120G*30U','          ',30,21.00,0.0000),
 	 ('QUESO MAGRO TROZADO LA PAULINA','          ',30,21.00,0.0000),
@@ -537,7 +537,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('QUESO TYBO LIGHT FETEADO PAULI','          ',30,21.00,0.0000),
 	 ('QUESO FUNDIDO MIXTO PAULINA','          ',30,21.00,0.0000),
 	 ('QUESO RALLADO LIGHT*35G PAULINA*20U','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO PATEGRAS MITAD PAULINA','          ',30,21.00,0.0000),
 	 ('LECHE POLVO *25 KG PAULINA','          ',32,21.00,0.0000),
 	 ('QUESO RALLADO RICREM*35GRS','          ',30,21.00,0.0000),
@@ -548,7 +548,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('QUESO FONDUE *500G PAULINA','          ',30,21.00,0.0000),
 	 ('PAPAS FRITAS *70GR JULICROC','          ',145,21.00,0.0000),
 	 ('PAPAS FRITAS SABORI*70GJULICRO','          ',145,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('SALAME TIPO MILAN NELSON','          ',2,21.00,0.0000),
 	 ('SALSA FILETO LA HUERTA*210','          ',65,21.00,0.0000),
 	 ('SALSA PIZZA LA HUERTA *210','          ',65,21.00,0.0000),
@@ -559,7 +559,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MANI TOSTADO *200 JULI CROC','          ',143,21.00,0.0000),
 	 ('QUESO REGGIANITO HORMA PAULINA','          ',30,21.00,0.0000),
 	 ('QUESO REGGIANITO MITAD PAULINA','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('DANICA HOJALDRE TRADICION','          ',78,21.00,0.0000),
 	 ('QUESO GOUDA PAULINA','          ',30,21.00,0.0000),
 	 ('CONO PARA PAPAS','          ',119,21.00,0.0000),
@@ -570,7 +570,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('PATE AL JEREZ','          ',54,21.00,0.0000),
 	 ('PALITOS SALADOS *5K MAR PAG','          ',104,21.00,0.0000),
 	 ('CREMA POUCH PAU','          ',31,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('BOLSAS DE CONSORCIO','          ',118,21.00,0.0000),
 	 ('QUESO MAGRO SIN SAL LA PAULINA','          ',30,21.00,0.0000),
 	 ('LECHE EN POLVO DESC, ILOLAY','          ',2,21.00,0.0000),
@@ -581,7 +581,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MOZZARELLA CILINDRICA TREMBLAY','          ',169,21.00,0.0000),
 	 ('PALITOS SALADOS *10K','          ',104,21.00,0.0000),
 	 ('QUESO CREMA ENT. PAU POUCH','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MAYONESA NATURA * 2900cc','          ',86,21.00,0.0000),
 	 ('QUESO CUARTIROLO RICREM','          ',30,21.00,0.0000),
 	 ('MEDALLONES CARNE VACUNA SWIFT','          ',42,21.00,0.0000),
@@ -592,7 +592,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('JAMON CRUDO TIPO ESPANIOL BLOQUE PALADIN','          ',53,21.00,0.0000),
 	 ('ARITO SABOR A PIZZA *1K','          ',139,21.00,0.0000),
 	 ('BOLITAS CROCANTES JULICROC *1K','          ',139,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('CHIZITOS JULICROC *1K','          ',139,21.00,0.0000),
 	 ('CHIZITOS JULICROC *1K','          ',142,21.00,0.0000),
 	 ('PAPAS FRITAS JULICROC *1K*5U','          ',145,21.00,0.0000),
@@ -603,7 +603,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('ACEITE NATURA *1500L','          ',85,21.00,0.0000),
 	 ('ACEITE NATURA * 5L','          ',85,21.00,0.0000),
 	 ('BAGGIO MULTIFRUTA * 1L * 12u','          ',64,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('BAGGIO PERA * 1L * 12u','          ',64,21.00,0.0000),
 	 ('BAGGIO PRONTO MULTIFRUTAL *1L','          ',64,21.00,0.0000),
 	 ('BAGGIO DUR-NAR * 1L * 12u','          ',64,21.00,0.0000),
@@ -614,7 +614,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('YOGUR FRUTADO DESCREMADO ILOLAY *160','          ',36,21.00,0.0000),
 	 ('MERMELADA FRUTILLA *500 DULCOR*12U','          ',110,21.00,0.0000),
 	 ('MERMELADA PERA *500 DULCOR*12U','          ',110,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MERMELADA DE MEMBRILLO*500 DULCOR*12U','          ',110,21.00,0.0000),
 	 ('TOMATE TRITURADO LATA *8KG','          ',173,21.00,0.0000),
 	 ('ACEITUNAS N1 ABETO*3K','          ',174,21.00,0.0000),
@@ -625,7 +625,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BOLITAS DE COLOR *1KG JULICROC','          ',140,21.00,0.0000),
 	 ('QUESO CREMOSO TREMBLAY','          ',169,21.00,0.0000),
 	 ('QUESO SARDO TREMBLAY','          ',169,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO SARDO ESTACIONADO TREMBLAY','          ',169,21.00,0.0000),
 	 ('ACEITE DE OLIVA *500ML*6u','          ',67,21.00,0.0000),
 	 ('GALLETITAS EXPRESS *3','          ',93,21.00,0.0000),
@@ -636,7 +636,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('ARITO SABOR PIZZA *1K JULICROC','          ',142,21.00,0.0000),
 	 ('Gen�rico','          ',2,21.00,0.0000),
 	 ('ROLLO DE BOLSAS 30*40','          ',118,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('FIDEOS CARACOLITOS','          ',2,21.00,0.0000),
 	 ('DULCE D/LECHE REP.*1K LA PAULINA*12u','          ',33,21.00,0.0000),
 	 ('MORTADELA C/ PISTACHOS L''ABRATTO','          ',49,21.00,0.0000),
@@ -647,7 +647,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('QUESO ROQUEFORT PAULINA HORMA','          ',30,21.00,0.0000),
 	 ('HAMBURGUESA LA FURLANA  20*2','          ',98,21.00,0.0000),
 	 ('HAMBURGUESA LA FURLANA 20*2','          ',98,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MERMELADA NARANJA *500 DULCOR','          ',107,21.00,0.0000),
 	 ('ROLLO PAPEL PARA COCINA *3 u','          ',117,21.00,0.0000),
 	 ('PAPEL HIGIENICO *4 u','          ',117,21.00,0.0000),
@@ -658,7 +658,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('LECHE EN POLVO DESC.*5GRS *30U','          ',37,21.00,0.0000),
 	 ('aceite natura *1500','          ',91,21.00,0.0000),
 	 ('aceite natura *900cc','          ',91,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MANI CON SABOR MAR PAG*5 KG','          ',105,21.00,0.0000),
 	 ('BONDIOLA LA FURLANA','          ',99,21.00,0.0000),
 	 ('YOGUR BOT.*200 ENT. DURAZNO ILOLAY','          ',36,21.00,0.0000),
@@ -669,7 +669,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('QUESO GOYA HORMA LA PAULINA','          ',30,21.00,0.0000),
 	 ('SALAME CRESPON PALADINI','          ',48,21.00,0.0000),
 	 ('BAGGIO NARANJA *1,500L*8U','          ',64,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('BAGGIO MANZANA*1500L*8U','          ',64,21.00,0.0000),
 	 ('SODA MOCORETA 6*2000L','          ',64,21.00,0.0000),
 	 ('QUESO PATEGRAS TROZADO LA PAULINA','          ',30,21.00,0.0000),
@@ -680,7 +680,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MERMELADA NARANJA*500 DULCOR*12U','          ',110,21.00,0.0000),
 	 ('DISCOS COPETIN P/HORNO DON YEYO','          ',28,21.00,0.0000),
 	 ('ACEITE DE OLIVA','          ',63,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('ACEITE OLIVA E.VIRGEN*500CC*20U BOTELLA','          ',91,21.00,0.0000),
 	 ('ACEITE OLIVA E.VIRGEN*500CC*20U LATA','          ',91,21.00,0.0000),
 	 ('SALSA P/PIZZA LA HUERTA *210*18U','          ',65,21.00,0.0000),
@@ -691,7 +691,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BOLSA DE CONSORCIO 60*90','          ',118,21.00,0.0000),
 	 ('CEREALES AZUCARADOS MAR PAG','          ',106,21.00,0.0000),
 	 ('MEDALLONES SWIFT *72U.','          ',41,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('HAMBURGUESAS SWIFT *60','          ',41,21.00,0.0000),
 	 ('SALCHICHAS SWIFT20*6U','          ',44,21.00,0.0000),
 	 ('QUESO RALLADO LA PAULINA *3K','          ',30,21.00,0.0000),
@@ -702,7 +702,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BAGGIO MIX FRUTAL*12*1L','          ',64,21.00,0.0000),
 	 ('BAGGIO MIX FRUTAL *125*18u','          ',64,21.00,0.0000),
 	 ('BOLSA POLIETILENO 35*45','          ',118,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('CAJA MINIPIEZAS SELECTAS PALADINI','          ',168,21.00,0.0000),
 	 ('SALAME SELECTO PALADINI','          ',48,21.00,0.0000),
 	 ('QUESO GOYA MITAD LA PAULINA','          ',30,21.00,0.0000),
@@ -713,7 +713,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('HAMBURGUESAS SWITF 12*4U *69G','          ',41,21.00,0.0000),
 	 ('SALSA BOLOGNESA C/ VERDEO 12U*355G','          ',43,21.00,0.0000),
 	 ('JAMON COCIDO NATURAL L''ABRATTO','          ',52,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('PALITOS SALADOS *1K *14U','          ',144,21.00,0.0000),
 	 ('DISCOS EMP/CRIOLLA BLISTER DON YEYO *15U','          ',28,21.00,0.0000),
 	 ('ACEITE OLIVA LA POSTA DEL OLIVO 6*500','          ',65,21.00,0.0000),
@@ -724,7 +724,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SAL. MILAN FET.PALADINI *120G*20U','          ',48,21.00,0.0000),
 	 ('JAM.COC.FET PALADINI*200G*15U','          ',52,21.00,0.0000),
 	 ('MOZZARELLA  FET.LA PAULINA *180G*16U','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MEDALLON SWIFT*60U*69G','          ',41,21.00,0.0000),
 	 ('CHIZITOS BIG CHESSE *15U','          ',66,21.00,0.0000),
 	 ('BOND. FET. PALADINI *120G*25U','          ',129,21.00,0.0000),
@@ -735,7 +735,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('ACEITUNAS DESCAROZADAS ABETO*3K','          ',174,21.00,0.0000),
 	 ('ACEITUNAS N1LA SIERRITA*3K','          ',172,21.00,0.0000),
 	 ('MORTADELA PALADINI *8K','          ',49,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('BOLSAS CAMISETAS 30 * 40 COLOR','          ',118,21.00,0.0000),
 	 ('VIANDADA LA BLANCA 24*332G','          ',43,21.00,0.0000),
 	 ('SAL EN SOBRES *1000U','          ',119,21.00,0.0000),
@@ -746,7 +746,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('JUGOS EN SOBRE DURAZNO *18','          ',124,21.00,0.0000),
 	 ('JUGOS EN SOBRE LIMON *18','          ',124,21.00,0.0000),
 	 ('JUGOS EN SOBRE MANZANA *18','          ',124,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('JUGOS EN SOBRE MIX FRUTAL *18','          ',124,21.00,0.0000),
 	 ('JUGOS EN SOBRE NARANJA *18','          ',124,21.00,0.0000),
 	 ('JUGOS EN SOBRE NARANJA-BANANA *18','          ',124,21.00,0.0000),
@@ -757,7 +757,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('JUGOS EN SOBRE POMELO ROSADO *18','          ',124,21.00,0.0000),
 	 ('CHIZITOS JULICROC *45GRS','          ',142,21.00,0.0000),
 	 ('MORTADELA DON JULIAN','          ',88,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('PERNIL NELSON','          ',62,21.00,0.0000),
 	 ('FIDEGAL FEDEO CARACOLITOS 12* 500 GRS','          ',117,21.00,0.0000),
 	 ('QUESO UNT. 4 QUESOS PAULINA *12','          ',27,21.00,0.0000),
@@ -768,7 +768,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('TUBITO SABOR A JAMON *5K','          ',142,21.00,0.0000),
 	 ('MEDALLONES *72 LA BLANCA','          ',40,21.00,0.0000),
 	 ('MEDALLONES LA BLANCA *72','          ',41,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MANTECA MINIATURA ILOLAY*144U','          ',36,21.00,0.0000),
 	 ('DULCE DE LECHE MINIATURA *108U','          ',36,21.00,0.0000),
 	 ('GALLETITAS LUNA TINIEBLA CHIP *18U','          ',177,21.00,0.0000),
@@ -779,7 +779,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('VAINILLAS MAURI *32*160G','          ',177,21.00,0.0000),
 	 ('VAINILLAS MAURI *6*800G','          ',177,21.00,0.0000),
 	 ('VAINILLAS MAURI *16*320G','          ',177,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('GALLETITAS SURT.FAUNA*28*150G','          ',177,21.00,0.0000),
 	 ('VAINILLAS C/AZUL MAURI*36*80G','          ',177,21.00,0.0000),
 	 ('FIAMBRE EMP.FELA C.Y P.*6K','          ',51,21.00,0.0000),
@@ -790,7 +790,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('BAGGIO MULTIFRUTAL*1,500L*8U','          ',64,21.00,0.0000),
 	 ('BAGGIO MULTIFRUTAL*500*12U','          ',64,21.00,0.0000),
 	 ('DISCOS PASTELES DON YEYO','          ',28,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO DE CERDO PALADINI*2,500kg','          ',56,21.00,0.0000),
 	 ('HAMBURGUESA  SWIFT 12*4U*69G LIGHT','          ',41,21.00,0.0000),
 	 ('PALITOS SALADOS *1KG JULICROC','          ',144,21.00,0.0000),
@@ -801,7 +801,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('GALLETITAS NUM.C/HUESITOS*330G*18','          ',177,21.00,0.0000),
 	 ('TURRON OBLEA *25G*50U','          ',177,21.00,0.0000),
 	 ('BIZCOCHOS SALADOS PALMESANO*350G*15U','          ',177,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('GALLETITAS C/CONF.PALMESANO*350G*18U','          ',177,21.00,0.0000),
 	 ('GALLETITAS MEDIEVALES*330G*15U','          ',177,21.00,0.0000),
 	 ('GALLETITAS PEPAS*400G*15U','          ',177,21.00,0.0000),
@@ -812,7 +812,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('LECHE LARGA VIDA DESC C/FIBRA','CAJA*12U  ',37,21.00,0.0000),
 	 ('QUESO HEBRAS  ILATIANO*380G*6U','          ',30,21.00,0.0000),
 	 ('QUESO HEBRAS ILATIA LIGHT*380G*6','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO HEBRAS NAPOLITANO*380G*6U','          ',30,21.00,0.0000),
 	 ('QUESO HEBRAS MEDITERRANEO*360G*6U','          ',30,21.00,0.0000),
 	 ('YOGUR ENTERO * 1L VAINILLA ILOLAY','          ',36,21.00,0.0000),
@@ -823,7 +823,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('YOGUR DESC.*1L VAINILLA ILOLAY','          ',36,21.00,0.0000),
 	 ('QUESO ROQUEFORT ILOLAY','          ',39,21.00,0.0000),
 	 ('PAPAS PAI 14*330 grs. JULICROC','          ',145,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('YOGUR BOT *200 ENT. FRUT-KIWI ILOLAY','          ',36,21.00,0.0000),
 	 ('YOGUR C/TOP ENT. FRUTILLA ILOLAY','          ',36,21.00,0.0000),
 	 ('MANI TOSTADO *1K JULICROC','          ',143,21.00,0.0000),
@@ -834,7 +834,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('CREMA DE LECHE *5KG ILOLAY','          ',127,21.00,0.0000),
 	 ('LECHE EN POLVO *800G ILOLAY *12','          ',37,21.00,0.0000),
 	 ('LECHE EN POLVO *400G ILOLAY*25u','          ',37,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MANI SALADO *1KG JULICROC','          ',143,21.00,0.0000),
 	 ('GALLETITAS PROPICIA 12*400G','          ',177,21.00,0.0000),
 	 ('LECHE EN POLVO *25KG ILOLAY','          ',37,21.00,0.0000),
@@ -845,7 +845,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MILANESAS DE SOJA CLASICAS 20*330G','          ',41,21.00,0.0000),
 	 ('MILANESAS DE SOJA CON OREGANO 20*330G','          ',41,21.00,0.0000),
 	 ('MILANESAS DE SOJA RELLENAS C/JAMON Y QUE','          ',41,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MILANESAS DE SOJA RELLENAS C/ESPINACA Y','          ',41,21.00,0.0000),
 	 ('GRASA FRIAR * 1kg','          ',2,21.00,0.0000),
 	 ('ACEITE VICENTIN *5L','          ',2,21.00,0.0000),
@@ -856,7 +856,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('TIRABUZON *500 GRS. DON YEYO','          ',26,21.00,0.0000),
 	 ('PENNE RIGATTE *500 GRS. DON YEYO','          ',26,21.00,0.0000),
 	 ('CODITO *500 GRS. DON YEYO','          ',26,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('AVE MARIA *500 GRS. DON YEYO','          ',26,21.00,0.0000),
 	 ('MORCILLA ESPA�OLA PALADINI','          ',46,21.00,0.0000),
 	 ('FIDEOS SPAGHETTI*500G.DON YEYO','          ',28,21.00,0.0000),
@@ -867,7 +867,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('PANCETA AHUMADA FLIAR PALADINI','          ',50,21.00,0.0000),
 	 ('QUESO RALLADO -120G ILOLAY','          ',39,21.00,0.0000),
 	 ('FIAMBRE DE CERDO DON JULIAN','          ',89,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('PALETA NELSON CHICA','          ',62,21.00,0.0000),
 	 ('QUESO RALLADO *3KG ILOLAY','          ',39,21.00,0.0000),
 	 ('HAMBURGUESAS PALADINI FINAS *72U','          ',111,21.00,0.0000),
@@ -878,7 +878,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('PERNIL COCIDO DON ALEJANDRO','          ',89,21.00,0.0000),
 	 ('QUESO CREMOSO DOBLE CREMA LP','          ',30,21.00,0.0000),
 	 ('DISCOS P/PASCUAL.DEVIANO*350G DON YEYO','          ',28,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('KETCHUP NATURA *250 g *8 U.','          ',86,21.00,0.0000),
 	 ('SALSA GOLF NATURA *250 g * 8U','          ',86,21.00,0.0000),
 	 ('MOSTAZA NATURA *250 g *8U','          ',86,21.00,0.0000),
@@ -889,7 +889,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('NUGGETS DE POLLO CONGELADOS *800G*8U','          ',111,21.00,0.0000),
 	 ('MEDALLONES DE POLLO CONG.*48U','          ',111,21.00,0.0000),
 	 ('MEDALLONES DE POLLO CONG. J&Q *48U','          ',111,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('RAVIOLES  RICOTA DEVIANO*500','          ',28,21.00,0.0000),
 	 ('RAVIOLES VERDURA DEVIANO*500','          ',28,21.00,0.0000),
 	 ('MOZARELLA BARRA TRADICIONAL','          ',30,21.00,0.0000),
@@ -900,7 +900,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SORBETES ENSOBRADOS','          ',117,21.00,0.0000),
 	 ('QUESO P/SALUD LIGHT TROZADO LA PAULINA','          ',30,21.00,0.0000),
 	 ('QUESO TYBO BARRA PALADINI','          ',51,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('QUESO CUARTIROLO PALADINI','          ',51,21.00,0.0000),
 	 ('CAPELLETIS C/JYQ *1K DON YEYO','          ',28,21.00,0.0000),
 	 ('SAL EN SOBRE','          ',120,21.00,0.0000),
@@ -911,7 +911,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('GALL.CUKIS PEPAS * 380GRS MEMB.','          ',93,21.00,0.0000),
 	 ('MANTECA*10GRS*144U ILOLAY','          ',128,21.00,0.0000),
 	 ('QUESO FONTINA PAULINA','          ',30,21.00,0.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('BOCADITOS DE POLLO FELA * 380G','CAJA * 12 ',111,21.00,0.0000),
 	 ('QUESO UNT. CHEDDAR POUCH','CAJA * 2 U',30,21.00,0.0100),
 	 ('PANCETA CERDO SAL.S/COST LARIO','CAJA*2U   ',178,21.00,0.0100),
@@ -922,7 +922,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MORTADELA 66 CA�ON 3,9K','CAJA*3U   ',178,21.00,0.0100),
 	 ('SALAME 66 PF 1,8K E.V','CAJA*4U   ',178,21.00,0.0100),
 	 ('SALAMIN 66 P/G','25 GANCHOS',178,21.00,0.0100);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('SALAMIN 66 P/F','25 GANCHOS',178,21.00,0.0100),
 	 ('SALCHICHA  VIENA 66*6U','CAJA*24U  ',178,21.00,0.0100),
 	 ('MORT.BOLOG.CA�ON*4K','CAJA*3U   ',178,21.00,0.0100),
@@ -933,7 +933,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('LEBERWURST *200G','CAJA*10U  ',178,21.00,0.0100),
 	 ('MORCILLON C/LENGUA 2,3K','CAJA*4U   ',178,21.00,0.0100),
 	 ('MORCILLA BOLSON 2*2,2KLARIO','CAJA*2U   ',178,21.00,0.0100);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MORCILLA NEGRA E/V *4U','CAJA*12U  ',178,21.00,0.0100),
 	 ('SALCHICHON PRIMAVERA  LARIO','CAJA*4U   ',178,21.00,0.0100),
 	 ('SALCH.PRIMAV.LARIO12*320G','CAJA*12U  ',178,21.00,0.0100),
@@ -944,7 +944,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('FIAMBRE COC.PATA CERDO L.','CAJA*2U   ',178,21.00,38.9100),
 	 ('BONDIOLA REBANADA LARIO *10U','CAJA*10U  ',178,21.00,16.1700),
 	 ('JAMON CRUDO REB.LARIO*10U','CAJA*10U  ',178,21.00,19.4000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('MORTADELA 66 C.2KG','CAJA*3U   ',178,21.00,24.1800),
 	 ('SALAME LARIO PG T/COLONIA','CAJA*5U   ',178,21.00,60.4100),
 	 ('SALAME LARIO P/F MITAD','CAJA*5U   ',178,21.00,63.7700),
@@ -955,7 +955,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('SALAME TIPO CHA.LARIO GRASA','CAJA*6U   ',178,21.00,99.5500),
 	 ('SALCHICHON C/JAMON 2.3 LARIO','CAJA*4U   ',178,21.00,1.0000),
 	 ('FIAMBRE P/EMP 66.','CAJA *4U  ',178,21.00,1.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('SALCH.C/JAMON 12*320 LARIO','CAJA*12U  ',178,21.00,1.0000),
 	 ('QUESO DE CERDO 2.5K LARIO','CAJA*4U   ',178,21.00,1.0000),
 	 ('SALAME LARIO LARG.P/G 1.5KG','CAJA*4U   ',178,21.00,1.0000),
@@ -966,7 +966,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MORTADELA FLIAR.*400G PALADINI','CAJA*12U  ',5,21.00,0.0100),
 	 ('HARINA PUREZA 0000 ULTRA REF.','PACK *12 U',24,10.50,0.0000),
 	 ('SALCHICHAS WURSTEN L�ABRATTO','CAJA*12U  ',6,21.00,0.0010);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('HARINA 000 CA�UELAS*1K','PACK*10U  ',24,10.50,0.0010),
 	 ('HARINA INTEGRAL PUREZA*1K','PACK *10  ',24,10.50,0.0010),
 	 ('HARINA PUR.C.LEV.ESP.P/PIZZA*1','PACK*10   ',24,10.50,0.0010),
@@ -977,7 +977,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('HARINA PUR.C/LEV.ESP.PANES*1K','PACK*10   ',24,10.50,0.0010),
 	 ('ACEITE GIR.CA�UELAS 12*1,5L','CAJA*12   ',22,21.00,0.0010),
 	 ('ACEITE OLI.CLAS.CA�.LATA6*0,5','PACK*6    ',22,21.00,0.0010);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('ACEITE OLI.INT.CA�.LATA 6*0,5','PACK*6    ',22,21.00,0.0010),
 	 ('ACEITE OLI.SUAVE CA�.LATA 0,05','PACK*6    ',22,21.00,0.0010),
 	 ('ACEITE MAIZ CA�.12*1','CAJA*12   ',22,21.00,0.0010),
@@ -988,7 +988,7 @@ INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Preci
 	 ('MOZARELLA RICREM','CAJA *6U  ',27,21.00,0.0010),
 	 ('JAMON COCIDO REBANADO','CAJA *10U ',178,21.00,0.0001),
 	 ('test','test      ',2,21.00,1.0000);
-INSERT INTO Super.Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
+INSERT INTO Productos (Descripcion,Presentacion,IdCategoria,Alic_IVA,Precio) VALUES
 	 ('prueba lista precios','test      ',2,21.00,1.0000),
 	 ('sistema comedero x','uniudad   ',5,21.00,0.0000),
 	 ('DESCUENTO GENERAL','          ',2,0.00,0.0000);

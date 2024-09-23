@@ -16,6 +16,7 @@ CREATE TABLE `Productos` (
   `Presentacion` varchar(60) DEFAULT NULL,
   `IdCategoria` int DEFAULT NULL,
   `Alic_IVA` decimal(8,2) NOT NULL DEFAULT '21.00',
+  `Precio` decimal(18,4) DEFAULT NULL,
   PRIMARY KEY (`Id`),
-  KEY `Productos_Categorias_FK` (`IdCategoria`),
-  ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+  KEY `Productos_Categorias_FK` (`IdCategoria`)
+) ENGINE=InnoDB AUTO_INCREMENT=3615 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
